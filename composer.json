@@ -1,0 +1,14 @@
+{
+    "name": "vendor/greenkey3",
+    "description": "Описание проекта greenkey3.",
+    "authors": [
+        {
+            "name": "matt",
+            "email": "info@greenkey.ru"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "v4.1.1",
+        "components/jquery": "3.3.1"
+    }
+}
